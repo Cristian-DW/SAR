@@ -1,6 +1,6 @@
 # Sistema de Automatización de Restaurantes (SAR) 🍔 
 
-¡Bienvenido! Este repositorio contiene las landing pages para el Sistema de Automatización de Restaurantes. Gestiona pedidos, empleados, inventarios, genera informes, tiene carrito de compras y envía recibos por correo. La landing page incluye un botón de redirección al proyecto principal.
+Bienvenido al repositorio que alberga las landing pages para el Sistema de Automatización de Restaurantes. Este sistema integral permite gestionar pedidos, empleados, inventarios, generar informes detallados, brindar una experiencia de carrito de compras intuitiva y enviar recibos por correo electrónico. La landing page incluye un botón de redirección al proyecto principal.
 
 ## Características
 
