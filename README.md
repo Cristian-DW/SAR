@@ -33,3 +33,9 @@ Clona este repositorio en tu máquina local:
 `
 git clone https://github.com/Cristian-DW/SAR.git
 `
+
+## Uso
+Abre el archivo index.html en tu navegador para ver la landing page. Si deseas redirigirte al proyecto principal, simplemente haz clic en el botón VISITA NUESTRO ULTIMO PROYECTO.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
