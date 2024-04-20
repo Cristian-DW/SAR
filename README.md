@@ -4,12 +4,12 @@ Bienvenido al repositorio que alberga las landing pages para el Sistema de Autom
 
 ## Características
 
-- **Gestión de Pedidos:** 📋 Realiza un seguimiento eficiente de los pedidos.
-- **Gestión de Empleados:** 👩‍🍳 Administra el personal y sus roles.
-- **Gestión de Inventarios:** 📦 Controla y actualiza fácilmente los niveles de inventario.
-- **Generación de Reportes:** 📊 Obtiene informes detallados para decisiones informadas.
-- **Carrito de Compras:** 🛒 Brinda una experiencia de compra sencilla e intuitiva.
-- **Generación de Recibos por Correo Electrónico:** 📧 Envía recibos automáticamente a los clientes.
+- Gestión de Pedidos: 📋 Realiza un seguimiento eficiente de los pedidos.
+- **Gestión de Empleados: 👩‍🍳 Administra el personal y sus roles.
+- Gestión de Inventarios: 📦 Controla y actualiza fácilmente los niveles de inventario.
+- Generación de Reportes: 📊 Obtiene informes detallados para decisiones informadas.
+- Carrito de Compras: 🛒 Brinda una experiencia de compra sencilla e intuitiva.
+- Generación de Recibos por Correo Electrónico: 📧 Envía recibos automáticamente a los clientes.
 
 ## Vista Previa
 
