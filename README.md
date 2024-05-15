@@ -27,15 +27,6 @@ Puedes ver una demostración en vivo (https://cristian-dw.github.io/SAR/).
 4. Envía tus cambios a tu repositorio en GitHub: `git push origin nueva-caracteristica`.
 5. Abre un Pull Request para que revisemos tus cambios.
 
-## Instalación
-
-Clona este repositorio en tu máquina local:
-`
-git clone https://github.com/Cristian-DW/SAR.git
-`
-
-## Uso
-Abre el archivo index.html en tu navegador para ver la landing page. Si deseas redirigirte al proyecto principal, simplemente haz clic en el botón VISITA NUESTRO ULTIMO PROYECTO.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
